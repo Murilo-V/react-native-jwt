@@ -2,6 +2,10 @@
 
 A technical test for Verzel. It's an app that list cars and when logged with Admin you can CRUD.
 
+## Screenshots
+
+![App Screenshot](https://i.ibb.co/Z1bTVsd/image.png)
+
 ## Techs
 
 **Front:** React Native, Expo
